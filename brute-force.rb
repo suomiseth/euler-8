@@ -16,3 +16,5 @@ end
 puts "how many digits?"
 digits = gets.strip.to_i
 puts "answer is: #{ContiguousProduct.new(digits).largest_product}"
+
+# 23514624000
